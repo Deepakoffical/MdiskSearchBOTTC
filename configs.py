@@ -8,7 +8,7 @@ class Config(object):
     API_ID = int(os.getenv("API_ID", "24788236"))
     API_HASH = os.getenv("API_HASH", "4a888f6f6a96d79b682e92d27fe47958")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5921306957:AAEjcmDNZ7Zszg2p9HrG-q2kWtR4rVLdciY")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "lazydeveloperr")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Deepakoffical")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOHIBu0Mq-StmGcsTRjpNPMIJfsfiKGwECqKi0t_xkD2BcHN692efdA92zGSEbbNSIqC0E2Oyne9H_ESjQeM1BGNBOFCOQusecrcyqWDeaNIIvfRaJJlvjzjaO-KIF_2KZDCMC3DuloV-8plCU3YOKs6EHRY3i4FVwS9Q-zhSQTHcxIExgRsVjFMfWlDNtMuD1pj3m1GnBGMkABNIzo5lhPsjFefjiWTsJOhgNl_avFrC2Nv55ZYGE-PHWWlO64jHawRhaY3JHWfWyk0b13YFbDArqfQ-rtV2pOHcfP-1U3PVXVVvNymwNF8CmemIK0tXvIJ7AWj7bLZZjY65gerB-TQXyaU=")
 #   Channel id where your posts are stored.
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001824569466")) 
